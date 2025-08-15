@@ -3,4 +3,5 @@ Day 3
 - Hack The Box adlı siteyi keşfetmeye başladım. Burda da Kariyer, temeller, alanlar ile ilgili modülleri bitirdim ve sonrasında Junior Cyber Secuirty path'ine katıldım ancak
 bir süre sonra farkettim ki SOC tarafına ulaşana kadar birçok modül bitirmem lazımdı. Bundan ötürü SOC junior pathine geçiş yaptım. SIEM modülünü bitirdim.
   - Hack The Box sitesinin Tryhackme'ye kıyasla daha az interaktif ama daha detaylı bilgi verdiğini düşünüyorum.
-- Bugünün notları SIEM altında ayrıca genel diğer notlarımı da birleştirip github'da repository açtım. Önceki günlerde yazdığım Network, Intro notlarını da githubda Cyber-Intern-Notes klasöründe bulabilirsiniz.
+- Bugünün notları SIEM altında ayrıca genel diğer notlarımı da birleştirip github'da repository açtım. Önceki günlerde yazdığım Network, Intro notlarını da githubda
+CyberSec-Intern-Notes klasöründe bulabilirsiniz. 
