@@ -5,3 +5,5 @@ bir süre sonra farkettim ki SOC tarafına ulaşana kadar birçok modül bitirme
   - Hack The Box sitesinin Tryhackme'ye kıyasla daha az interaktif ama daha detaylı bilgi verdiğini düşünüyorum.
 - Bugünün notları SIEM altında ayrıca genel diğer notlarımı da birleştirip github'da repository açtım. Önceki günlerde yazdığım Network, Intro notlarını da githubda
 CyberSec-Intern-Notes klasöründe bulabilirsiniz. 
+- Day 3 adı altında yazıyorum ama yaptıklarımın bir kısmı Day 2 gecesine de ait.
+  - Uyku problemim olmadığını bir daha test etmek amaçlı gece çalıştığım bir gün oldu. Sonucunda zorlanmadım.
